@@ -2,7 +2,7 @@
 该脚本可自动获取当前ip，并对阿里云平台下域名进行解析。可设置为定时脚本，解决动态公网ip用户的痛处！
 
 ### 方法1
-1.  拉取代码 ` git clone https://github.com/91hanbao/alidns-edit.git ` 
+1.  拉取代码 ` git clone https://github.com/hanbao-workspace/alidns-edit.git ` 
 2.  编译生成可执行文件 ` go run build main.go `   
 3.  编辑config.json文件
     ```
