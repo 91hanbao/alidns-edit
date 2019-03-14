@@ -16,7 +16,7 @@
  4. 运行可执行文件（确保config.json和可执行文件在同一目录）
  
  ### 方法2
- 1. 下载系统所对应架构的zip文件 [下载地址](https://github.com/91hanbao/alidns-edit/releases/tag/1.0)
+ 1. 下载系统所对应架构的zip文件 [下载地址](https://github.com/hanbao-workspace/alidns-edit/releases/tag/1.0)
  2. 解压后编辑config.json文件 参考方法 **1.3** 
  3. 运行可执行文件（确保config.json和可执行文件在同一目录）
  
